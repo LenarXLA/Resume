@@ -1,4 +1,4 @@
-# Хабибуллин Ленар &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://spb.hh.ru/resume/e406f454ff078850800039ed1f346555305651)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/lenarXLA)  [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/LenarXLA)
+# Хабибуллин Ленар &middot; [![](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-hh.ru-brightgreen)](https://spb.hh.ru/resume/e406f454ff078850800039ed1f346555305651)  [![](https://img.shields.io/badge/-%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-yellow)](https://t.me/lenarXLA)  [![](https://img.shields.io/badge/-Codewars-important)](https://www.codewars.com/users/LenarXLA)
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
@@ -55,4 +55,4 @@
 </div>
 </br>
 
-[![](https://img.shields.io/badge/%D0%9C%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%2C%20%D0%BA%D1%83%D1%80%D1%81%D1%8B%2C%20%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D1%8B%2C%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8-%23FF0000)](https://github.com/LenarXLA/Progress/blob/master/README.md)
+[![](https://img.shields.io/badge/%D0%9C%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%2C%20%D0%BA%D1%83%D1%80%D1%81%D1%8B%2C%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8-blueviolet)](https://github.com/LenarXLA/Progress/blob/master/README.md)
