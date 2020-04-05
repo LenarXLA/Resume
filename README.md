@@ -6,7 +6,7 @@
   - JavaScript, PHP
   - MySQL
   - Git, Github
-  - VSCode, SublimeText, Intellij IDEA, Eclpse, 
+  - VSCode, SublimeText, Intellij IDEA, Eclpse
   - Windows, Linux
 
  ### Мои некоммерческие проекты:
