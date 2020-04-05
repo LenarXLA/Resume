@@ -2,7 +2,7 @@
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
-  #Стек технологий:
+  # Стек технологий:
   - Java, Spring
   - HTML5, CSS3
   - JavaScript, PHP
@@ -11,7 +11,7 @@
   - VSCode, SublimeText, Intellij IDEA, Eclpse, 
   - Windows, Linux
 
- #Мои некоммерческие проекты:
+ # Мои некоммерческие проекты:
 
 <div class="w3-responsive">
 <font size="12px">
