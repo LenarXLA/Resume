@@ -23,12 +23,7 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://lenarxla.github.io/Totallizator/">Тоталлизатор финансовых расходов</a></td>
-<td>HTML, CSS, JavaScript</td>
-<td align="center">Одностраничное приложение</td>
-</tr>
- <tr>
-<td><a href="https://lenarxla.github.io/Totallizator/">Тоталлизатор финансовых расходов</a></td>
+<td><a href="https://lenarxla.github.io/Totallizator/">TotalExpense. Учет финансовых расходов</a></td>
 <td>HTML, CSS, JavaScript</td>
 <td align="center">Одностраничное приложение</td>
 </tr>
