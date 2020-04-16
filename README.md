@@ -25,7 +25,7 @@
 <tr>
 <td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
 <td>HTML, CSS, JavaScript</td>
-<td align="center">Одностраничное приложение</td>
+<td align="center">Одностраничное приложение.</td>
 </tr>
 
 </tbody>
