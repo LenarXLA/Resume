@@ -26,6 +26,11 @@
 <td>HTML, CSS, JavaScript</td>
 <td align="center">Одностраничное приложение</td>
 </tr>
+ <tr>
+<td><a href="https://github.com/LenarXLA/newWeatherApp">Java веб приложение погода</a></td>
+<td>Java, HTML, CSS, JQuery</td>
+<td align="center">Веб приложение</td>
+</tr>
 </tr>
 </thead>
 <tbody>
