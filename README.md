@@ -32,7 +32,7 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/LenarXLA/spring_boot_app_blog">Блог-сайт на Spring boot с БД</a></td>
-<td>Java, Spring, MySQL</td>
+<td>Java, Spring, MySQL, Spring boot, Maven, Bootstrap, Thymeleaf</td>
 <td align="center">Блог сайт</td>
 </tr>
 
