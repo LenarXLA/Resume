@@ -3,7 +3,7 @@
   ### Стек технологий:
   - Java, Spring
   - HTML5, CSS3
-  - JavaScript, PHP
+  - JavaScript, знаком с PHP
   - MySQL
   - Git, Github
   - VSCode, SublimeText, Intellij IDEA, Eclipse
