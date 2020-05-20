@@ -7,7 +7,6 @@
   - MySQL
   - Git, Github
   - VSCode, SublimeText, Intellij IDEA, Eclipse
-  - Windows, Linux
 
  ### Мои некоммерческие проекты:
 
