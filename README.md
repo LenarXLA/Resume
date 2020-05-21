@@ -9,6 +9,7 @@
   - VSCode, SublimeText, Intellij IDEA, Eclipse
 
  ### Мои некоммерческие проекты:
+ (часть проектов может грузиться долго - т.к. поднимается с Heroku)
 
 <div class="w3-responsive">
 <font size="12px">
