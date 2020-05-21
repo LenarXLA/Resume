@@ -30,7 +30,7 @@
 <td><a href="https://github.com/LenarXLA/TotalExpense">Ссылка</a></td>
 </tr>
  <tr>
-<td><a href="http://app20-env.eba-dhfcm5mp.us-east-2.elasticbeanstalk.com/s">Веб приложение погода</a>Веб приложение погода</a> / <a href="https://web-weather-app20.herokuapp.com/s"> </td>
+<td><a href="http://app20-env.eba-dhfcm5mp.us-east-2.elasticbeanstalk.com/s">Веб приложение погода</a> / <a href="https://web-weather-app20.herokuapp.com/s">Веб приложение погода</a> </td>
 <td>Java, HTML, CSS, JQuery</td>
 <td align="center">Веб приложение</td>
 <td><a href="https://github.com/LenarXLA/weather_web_app">Ссылка</a></td>
