@@ -17,6 +17,7 @@
 <thead>
 <tr class="w3-white">
 <th width="40%">Проект</th>
+<th width="40%">Альтернативная ссылка на проект</th>
 <th width="60%">Технологии</th>
 <th>Категория</th>
 <th>Исходный код</th>
@@ -31,6 +32,7 @@
 </tr>
  <tr>
 <td><a href="https://web-weather-app20.herokuapp.com/s">Java веб приложение погода</a></td>
+<td><a href="http://app20-env.eba-dhfcm5mp.us-east-2.elasticbeanstalk.com/s">Java веб приложение погода</a></td>
 <td>Java, HTML, CSS, JQuery</td>
 <td align="center">Веб приложение</td>
 <td><a href="https://github.com/LenarXLA/weather_web_app">Ссылка</a></td>
