@@ -18,6 +18,7 @@
 <th width="40%">Проект</th>
 <th width="60%">Технологии</th>
 <th>Категория</th>
+<th>Исходный код</th>
 </tr>
 </thead>
 <tbody>
@@ -25,19 +26,22 @@
 <td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
 <td>HTML, CSS, JavaScript</td>
 <td align="center">Одностраничное приложение</td>
+<td><a href="https://github.com/LenarXLA/TotalExpense">Ссылка</a></td>
 </tr>
  <tr>
 <td><a href="https://github.com/LenarXLA/newWeatherApp">Java веб приложение погода</a></td>
 <td>Java, HTML, CSS, JQuery</td>
 <td align="center">Веб приложение</td>
+<td><a href="https://github.com/LenarXLA/newWeatherApp">Ссылка</a></td>
 </tr>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/LenarXLA/spring_boot_app_blog">Блог-сайт на Spring boot с БД</a></td>
+<td><a href="https://spring-web-app20.herokuapp.com/blog">Блог-сайт на Spring boot с БД</a></td>
 <td>Java, Spring, MySQL, Spring boot, Maven, Bootstrap, Thymeleaf</td>
 <td align="center">Блог сайт</td>
+<td><a href="https://github.com/LenarXLA/spring_boot_app_blog">Ссылка</a></td>
 </tr>
 
 </tbody>
