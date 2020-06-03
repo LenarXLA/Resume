@@ -1,4 +1,4 @@
-# Хабибуллин Ленар Анварович &middot; [![](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-hh.ru-brightgreen)](https://spb.hh.ru/resume/e406f454ff078850800039ed1f346555305651)  [![](https://img.shields.io/badge/-%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-9cf)](https://t.me/lenarXLA)  [![](https://img.shields.io/badge/-Codewars-important)](https://www.codewars.com/users/LenarXLA)
+# Хабибуллин Ленар Анварович &middot; [![](https://img.shields.io/badge/profile-freecodecamp-informational)](https://www.freecodecamp.org/leoncraft) [![](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-hh.ru-brightgreen)](https://spb.hh.ru/resume/e406f454ff078850800039ed1f346555305651)  [![](https://img.shields.io/badge/-%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-9cf)](https://t.me/lenarXLA)  [![](https://img.shields.io/badge/-Codewars-important)](https://www.codewars.com/users/LenarXLA)
 
   ### Стек технологий:
   - HTML5, CSS3
