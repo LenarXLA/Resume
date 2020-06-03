@@ -44,6 +44,12 @@
 <td align="center">Блог сайт</td>
 <td><a href="https://github.com/LenarXLA/spring_boot_app_blog">Ссылка</a></td>
 </tr>
+<tr>
+<td><a href="https://lenarxla.github.io/Dmitri_Mendeleev_tribute-page/">Страничка про Менделеева</a></td>
+<td>HTML, CSS</td>
+<td align="center">Одностраничная верстка</td>
+<td><a href="https://github.com/LenarXLA/spring_boot_app_blog">Ссылка</a></td>
+</tr>
 
 </tbody>
 </table>
