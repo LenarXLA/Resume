@@ -50,6 +50,12 @@
 <td align="center">Одностраничная верстка</td>
 <td><a href="https://github.com/LenarXLA/Dmitri_Mendeleev_tribute-page">Ссылка</a></td>
 </tr>
+<tr>
+<td><a href="https://lenarxla.github.io/Survey_form//">Страничка запросов Survey form</a></td>
+<td>HTML, CSS</td>
+<td align="center">Одностраничная верстка</td>
+<td><a href="https://github.com/LenarXLA/Survey_form">Ссылка</a></td>
+</tr>
 
 </tbody>
 </table>
