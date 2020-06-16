@@ -56,9 +56,15 @@
 <td align="center">Одностраничная верстка</td>
 <td><a href="https://github.com/LenarXLA/Survey_form">Ссылка</a></td>
 </tr>
+<tr>
+<td><a href="https://lenarxla.github.io/ProductLandingPage/index">Страничка магазина продажи велосипедов</a></td>
+<td>HTML, CSS</td>
+<td align="center">Одностраничная верстка</td>
+<td><a href="https://github.com/LenarXLA/ProductLandingPage">Ссылка</a></td>
+</tr>
 
 </tbody>
-</table>
+</table> 
 </font>
 </div>
 </br>
