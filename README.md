@@ -58,7 +58,7 @@
 </tr>
 <tr>
   /*
-<td><a href="https://lenarxla.github.io/ProductLandingPage/index">Страничка магазина продажи велосипедов</a></td>
+<td><a href="https://lenarxla.github.io/ProductLandingPage/">Страничка магазина продажи велосипедов</a></td>
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка</td>
 <td><a href="https://github.com/LenarXLA/ProductLandingPage">Ссылка</a></td>
