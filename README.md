@@ -62,6 +62,12 @@
 <td align="center">Одностраничная верстка</td>
 <td><a href="https://github.com/LenarXLA/ProductLandingPage">Ссылка</a></td>
 </tr>
+<tr>
+<td><a href="https://lenarxla.github.io/Technical-Documentation-Page/index">Страничка технической документации</a></td>
+<td>HTML, CSS</td>
+<td align="center">Одностраничная верстка</td>
+<td><a href="https://github.com/LenarXLA/Technical-Documentation-Page">Ссылка</a></td>
+</tr>
 </tbody>
 </table> 
 </font>
