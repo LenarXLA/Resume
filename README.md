@@ -24,6 +24,12 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://lenarxla.github.io/Portfolio-Webpage/">Personal Portfolio Webpage</a></td>
+<td>HTML, CSS</td>
+<td align="center">Страница портфолио</td>
+<td><a href="https://github.com/LenarXLA/Portfolio-Webpage">Ссылка</a></td>
+</tr>
+<tr>
 <td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
 <td>HTML, CSS, JavaScript</td>
 <td align="center">Одностраничное приложение</td>
