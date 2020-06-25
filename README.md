@@ -24,52 +24,52 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://lenarxla.github.io/Portfolio-Webpage/" target="_blank">Personal Portfolio Webpage</a></td>
+<td><a href="https://lenarxla.github.io/Portfolio-Webpage/">Personal Portfolio Webpage</a></td>
 <td>HTML, CSS</td>
 <td align="center">Страница портфолио</td>
-<td><a href="https://github.com/LenarXLA/Portfolio-Webpage" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/Portfolio-Webpage">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/TotalExpense/" target="_blank">TotalExpense. Учет финансовых расходов</a></td>
+<td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
 <td>HTML, CSS, JavaScript</td>
 <td align="center">Одностраничное приложение</td>
-<td><a href="https://github.com/LenarXLA/TotalExpense" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/TotalExpense">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="http://app20-env.eba-dhfcm5mp.us-east-2.elasticbeanstalk.com/s" target="_blank">Веб приложение погода</a></td>
+<td><a href="http://app20-env.eba-dhfcm5mp.us-east-2.elasticbeanstalk.com/s">Веб приложение погода</a></td>
 <td>Java, HTML, CSS, JQuery</td>
 <td align="center">Веб приложение</td>
-<td><a href="https://github.com/LenarXLA/weather_web_app" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/weather_web_app">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://spring-web-app20.herokuapp.com/blog" target="_blank">Блог-сайт</a></td>
+<td><a href="https://spring-web-app20.herokuapp.com/blog">Блог-сайт</a></td>
 <td>Java, Spring, MySQL, Spring boot, Maven, Bootstrap, Thymeleaf</td>
 <td align="center">Блог сайт</td>
-<td><a href="https://github.com/LenarXLA/spring_boot_app_blog" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/spring_boot_app_blog">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/Dmitri_Mendeleev_tribute-page/" target="_blank">Страничка про Менделеева</a></td>
+<td><a href="https://lenarxla.github.io/Dmitri_Mendeleev_tribute-page/">Страничка про Менделеева</a></td>
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка</td>
-<td><a href="https://github.com/LenarXLA/Dmitri_Mendeleev_tribute-page" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/Dmitri_Mendeleev_tribute-page">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/Survey_form//" target="_blank">Страничка запросов Survey form</a></td>
+<td><a href="https://lenarxla.github.io/Survey_form//">Страничка запросов Survey form</a></td>
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка</td>
-<td><a href="https://github.com/LenarXLA/Survey_form" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/Survey_form">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/ProductLandingPage/index" target="_blank">Страничка магазина продажи велосипедов</a></td>
+<td><a href="https://lenarxla.github.io/ProductLandingPage/index">Страничка магазина продажи велосипедов</a></td>
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка</td>
-<td><a href="https://github.com/LenarXLA/ProductLandingPage" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/ProductLandingPage">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/Technical-Documentation-Page/" target="_blank">Страничка технической документации</a></td>
+<td><a href="https://lenarxla.github.io/Technical-Documentation-Page/">Страничка технической документации</a></td>
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка</td>
-<td><a href="https://github.com/LenarXLA/Technical-Documentation-Page" target="_blank">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/Technical-Documentation-Page">Ссылка</a></td>
 </tr>
 </tbody>
 </table> 
