@@ -35,15 +35,12 @@
 <td align="center">Одностраничное приложение</td>
 <td><a href="https://github.com/LenarXLA/TotalExpense">Ссылка</a></td>
 </tr>
- <tr>
+<tr>
 <td><a href="http://app20-env.eba-dhfcm5mp.us-east-2.elasticbeanstalk.com/s">Веб приложение погода</a></td>
 <td>Java, HTML, CSS, JQuery</td>
 <td align="center">Веб приложение</td>
 <td><a href="https://github.com/LenarXLA/weather_web_app">Ссылка</a></td>
 </tr>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td><a href="https://spring-web-app20.herokuapp.com/blog">Блог-сайт</a></td>
 <td>Java, Spring, MySQL, Spring boot, Maven, Bootstrap, Thymeleaf</td>
