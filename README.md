@@ -31,7 +31,7 @@
 <td><a href="https://github.com/LenarXLA/Analog-Clock-UI-Design">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/Portfolio-Webpage/">Personal Portfolio Webpage</a></td>
+<td><a href="https://lenarxla.github.io/Portfolio-Webpage/index">Personal Portfolio Webpage</a></td>
 <td>HTML, CSS</td>
 <td align="center">Страница портфолио</td>
 <td><a href="https://github.com/LenarXLA/Portfolio-Webpage">Ссылка</a></td>
