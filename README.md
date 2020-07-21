@@ -24,6 +24,12 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://lenarxla.github.io/Analog-Clock-UI-Design/index">Analog Clock UI Design</a></td>
+<td>JavaScript, HTML, CSS</td>
+<td align="center">Аналоговые часы в темном оформлении</td>
+<td><a href="https://github.com/LenarXLA/Analog-Clock-UI-Design">Ссылка</a></td>
+</tr>
+<tr>
 <td><a href="https://lenarxla.github.io/Portfolio-Webpage/">Personal Portfolio Webpage</a></td>
 <td>HTML, CSS</td>
 <td align="center">Страница портфолио</td>
