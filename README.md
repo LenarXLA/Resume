@@ -25,10 +25,10 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://lenarxla.github.io/Complete-Responsive-Website/index">Complete Responsive Website</a></td>
+<td><a href="https://lenarxla.github.io/Responsive-Website/">Complete Responsive Website</a></td>
 <td>HTML, CSS</td>
 <td align="center">Адаптивная верстка</td>
-<td><a href="https://github.com/LenarXLA/Complete-Responsive-Website">Ссылка</a></td>
+<td><a href="https://github.com/LenarXLA/Responsive-Website">Ссылка</a></td>
 </tr>
 <tr>
 <td><a href="https://lenarxla.github.io/Analog-Clock-UI-Design/index">Analog Clock UI Design</a></td>
