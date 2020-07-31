@@ -39,7 +39,7 @@
 <tr>
 <td><a href="https://lenarxla.github.io/Portfolio-Webpage/index">Personal Portfolio Webpage</a></td>
 <td>HTML, CSS</td>
-<td align="center">Страница портфолио</td>
+<td align="center">Страница портфолио(без адаптива)</td>
 <td><a href="https://github.com/LenarXLA/Portfolio-Webpage">Ссылка</a></td>
 </tr>
 <tr>
@@ -75,13 +75,13 @@
 <tr>
 <td><a href="https://lenarxla.github.io/ProductLandingPage/index">Страничка магазина продажи велосипедов</a></td>
 <td>HTML, CSS</td>
-<td align="center">Одностраничная верстка</td>
+<td align="center">Одностраничная верстка(без адаптива)</td>
 <td><a href="https://github.com/LenarXLA/ProductLandingPage">Ссылка</a></td>
 </tr>
 <tr>
 <td><a href="https://lenarxla.github.io/Technical-Documentation-Page/">Страничка технической документации</a></td>
 <td>HTML, CSS</td>
-<td align="center">Одностраничная верстка</td>
+<td align="center">Одностраничная верстка(без адаптива)</td>
 <td><a href="https://github.com/LenarXLA/Technical-Documentation-Page">Ссылка</a></td>
 </tr>
 </tbody>
