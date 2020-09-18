@@ -10,7 +10,7 @@
   - VSCode, SublimeText, Intellij IDEA, Eclipse
 
  ### Мои некоммерческие проекты:
- (часть проектов может грузиться долго - т.к. поднимаются с Heroku после бездействия)
+ *(часть проектов может грузиться долго - т.к. поднимаются с Heroku после бездействия)*
 
 <div class="w3-responsive">
 <font size="12px">
@@ -24,6 +24,12 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://lenarxla.github.io/rsschool-cv/">Cirriculum vitae</a></td>
+<td>HTML, CSS</td>
+<td align="center">Мини резюме</td>
+<td><a href="https://github.com/LenarXLA/rsschool-cv/tree/rsschool-cv-html">Ссылка</a></td>
+</tr>
 <tr>
 <td><a href="https://lenarxla.github.io/Responsive-Website/">Complete Responsive Website</a></td>
 <td>HTML, CSS</td>
