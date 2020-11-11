@@ -49,12 +49,6 @@
 <td><a href="https://github.com/LenarXLA/Portfolio-Webpage">Ссылка</a></td>
 </tr>
 <tr>
-<td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
-<td>HTML, CSS, JavaScript</td>
-<td align="center">Одностраничное приложение</td>
-<td><a href="https://github.com/LenarXLA/TotalExpense">Ссылка</a></td>
-</tr>
-<tr>
 <td><a href="https://web-weather-app20.herokuapp.com/s">Веб приложение погода</a></td>
 <td>Java, HTML, CSS, JQuery</td>
 <td align="center">Веб приложение</td>
@@ -89,6 +83,12 @@
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка(без адаптива)</td>
 <td><a href="https://github.com/LenarXLA/Technical-Documentation-Page">Ссылка</a></td>
+</tr>
+<tr>
+<td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
+<td>HTML, CSS, JavaScript</td>
+<td align="center">Одностраничное приложение</td>
+<td><a href="https://github.com/LenarXLA/TotalExpense">Ссылка</a></td>
 </tr>
 </tbody>
 </table> 
