@@ -26,6 +26,34 @@
 </thead>
 <tbody>
 <tr>
+<td align="center">15</td>
+<td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/gem-puzzle/src/">Gem-puzzle</a></td>
+<td>HTML, CSS, JS</td>
+<td align="center">Веб-приложение игра пятнашки</td>
+<td><a href="https://github.com/rolling-scopes-school/lenarxla-JS2020Q3/tree/gem-puzzle">Ссылка</a></td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/shelter/pages/main/">Shelter</a></td>
+<td>HTML, CSS</td>
+<td align="center">Адаптивная верстка</td>
+<td><a href="https://github.com/rolling-scopes-school/lenarxla-JS2020Q3/tree/shelter">Ссылка</a></td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/momentum/">Momentum</a></td>
+<td>HTML, CSS, JS</td>
+<td align="center">Веб-приложение мини задача на день</td>
+<td><a href="https://github.com/rolling-scopes-school/lenarxla-JS2020Q3/tree/momentum">Ссылка</a></td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/calculator/">Сalculator</a></td>
+<td>HTML, CSS, JS</td>
+<td align="center">Веб-приложение калькулятор</td>
+<td><a href="https://github.com/rolling-scopes-school/lenarxla-JS2020Q3/tree/calculator">Ссылка</a></td>
+</tr>
+<tr>
 <td align="center">11</td>
 <td><a href="https://lenarxla.github.io/rsschool-cv/">Cirriculum vitae</a></td>
 <td>HTML, CSS</td>
