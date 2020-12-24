@@ -26,16 +26,16 @@
 <tbody>
 <tr>
 <td align="center">15</td>
+<td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/shelter/pages/main/">Shelter</a></td>
+<td>HTML, CSS</td>
+<td align="center">Адаптивная верстка</td>
+</tr>
+<td align="center">14</td>
 <td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/gem-puzzle/src/">Gem-puzzle</a></td>
 <td>HTML, CSS, JS</td>
 <td align="center">Веб-приложение игра пятнашки</td>
 </tr>
 <tr>
-<td align="center">14</td>
-<td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/shelter/pages/main/">Shelter</a></td>
-<td>HTML, CSS</td>
-<td align="center">Адаптивная верстка</td>
-</tr>
 <tr>
 <td align="center">13</td>
 <td><a href="https://rolling-scopes-school.github.io/lenarxla-JS2020Q3/momentum/">Momentum</a></td>
