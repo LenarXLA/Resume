@@ -5,7 +5,7 @@
   - HTML5, CSS3
   - знаком с PHP
   - Java
-  - MySQL
+  - MySQL(starter)
   - Git, Github
   - VSCode, SublimeText, Intellij IDEA, Eclipse
 
