@@ -1,18 +1,5 @@
-# Хабибуллин Ленар Анварович &middot; [![](https://img.shields.io/badge/profile-freecodecamp-informational)](https://www.freecodecamp.org/leoncraft) [![](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-hh.ru-brightgreen)](https://kazan.hh.ru/resume/c3283288ff0829bf5d0039ed1f4f494d716741)  [![](https://img.shields.io/badge/-%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-9cf)](https://t.me/lenarXLA)  [![](https://img.shields.io/badge/-Codewars-important)](https://www.codewars.com/users/LenarXLA) [![](https://img.shields.io/badge/-%D0%9C%D0%BE%D0%B8%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-success)](https://www.freecodecamp.org/leoncraft)
-
-  ### Стек технологий:
-  - JavaScript
-  - HTML5, CSS3
-  - знаком с PHP
-  - Java
-  - MySQL(starter)
-  - Git, Github
-  - VSCode, SublimeText, Intellij IDEA, Eclipse
-
  ### Мои некоммерческие проекты:
  *(часть проектов может грузиться долго - т.к. поднимаются с Heroku после бездействия)*
- 
- Все идет в порядке новизны, и накопления мной опыта.
 
 <div class="w3-responsive">
 <font size="12px">
@@ -121,5 +108,3 @@
 </font>
 </div>
 </br>
-
-[![](https://img.shields.io/badge/%D0%9C%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%2C%20%D0%BA%D1%83%D1%80%D1%81%D1%8B%2C%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8-blueviolet)](https://github.com/LenarXLA/Progress/blob/master/README.md)
