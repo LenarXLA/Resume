@@ -62,12 +62,6 @@
 <td align="center">Страница портфолио(без адаптива)</td>
 </tr>
 <tr>
-<td align="center">7</td>
-<td><a href="https://web-weather-app20.herokuapp.com/s">Веб приложение погода</a></td>
-<td>Java, HTML, CSS, JQuery</td>
-<td align="center">Веб приложение</td>
-</tr>
-<tr>
 <td align="center">6</td>
 <td><a href="https://spring-web-app20.herokuapp.com/">Блог-сайт</a></td>
 <td>Java, Spring, MySQL, Spring boot, Maven, Bootstrap, Thymeleaf</td>
@@ -96,12 +90,6 @@
 <td><a href="https://lenarxla.github.io/Technical-Documentation-Page/">Страничка технической документации</a></td>
 <td>HTML, CSS</td>
 <td align="center">Одностраничная верстка(без адаптива)</td>
-</tr>
-<tr>
-<td align="center">1</td>
-<td><a href="https://lenarxla.github.io/TotalExpense/">TotalExpense. Учет финансовых расходов</a></td>
-<td>HTML, CSS, JavaScript</td>
-<td align="center">Одностраничное приложение</td>
 </tr>
 </tbody>
 </table> 
